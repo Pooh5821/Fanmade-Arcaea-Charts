@@ -4,19 +4,19 @@ Description: This song is kinda cool. RiraN hardstyle ftw
 
 ## Chart
 
-- Difficulty: Past 4
+Past 4
 - Charter: Pooh5821
 - Alias: Soldier of District 9
 - Chart Constant: 4.5
 - Note Count: 648
 
-- Difficulty: Present 7
+Present 7
 - Charter: Pooh5821
 - Alias: Guardian of District 9
 - Chart Constant: 7.5
 - Note Count: 744
 
-- Difficulty: Future 9+
+Future 9+
 - Charter: Pooh5821
 - Alias: Commander of District 9
 - Chart Constant: 9.9
