@@ -1,0 +1,69 @@
+lastOpenedChartPath: 1.aff
+charts:
+- chartPath: 0.aff
+  audioPath: RiraN - Flashback 【maimai でらっくす】.ogg
+  jacketPath: Flashback.png
+  baseBpm: 160
+  bpmText: 160
+  syncBaseBpm: true
+  backgroundPath: cityConflict.png
+  title: Flashback
+  composer: RiraN
+  charter: Pooh5821
+  alias: Soldier of District 9
+  illustrator: miya*ki
+  difficulty: Past 4
+  chartConstant: 4.5
+  difficultyColor: '#3A6B78FF'
+  skin:
+    side: conflict
+    singleLine: conflict
+  lastWorkingTiming: 130969
+  previewStart: 103500
+  previewEnd: 119250
+- chartPath: 1.aff
+  audioPath: RiraN - Flashback 【maimai でらっくす】.ogg
+  jacketPath: Flashback.png
+  baseBpm: 160
+  bpmText: 160
+  syncBaseBpm: true
+  backgroundPath: cityConflict.png
+  title: Flashback
+  composer: RiraN
+  charter: Pooh5821
+  alias: Guardian of District 9
+  illustrator: miya*ki
+  difficulty: Present 7
+  chartConstant: 7.5
+  difficultyColor: '#566947FF'
+  skin:
+    side: conflict
+    singleLine: conflict
+  lastWorkingTiming: 131103
+  previewStart: 103500
+  previewEnd: 119250
+- chartPath: 2.aff
+  audioPath: RiraN - Flashback 【maimai でらっくす】.ogg
+  jacketPath: Flashback.png
+  baseBpm: 160
+  bpmText: 160
+  syncBaseBpm: true
+  backgroundPath: cityConflict.png
+  title: Flashback
+  composer: RiraN
+  charter: Pooh5821
+  alias: Commander of District 9
+  illustrator: miya*ki
+  difficulty: Future 9+
+  chartConstant: 9.9000000000000004
+  difficultyColor: '#482B54FF'
+  skin:
+    side: conflict
+    singleLine: conflict
+  lastWorkingTiming: 131004
+  previewStart: 103500
+  previewEnd: 119250
+editorSettings:
+  lastUsedPublisher: Pooh5821
+  lastUsedPackageName: Flashback
+  lastUsedVersionNumber: 3
