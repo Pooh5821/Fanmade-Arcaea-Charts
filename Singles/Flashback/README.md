@@ -27,3 +27,4 @@ Future 9+
 - V1 - Export testing
 - V2 - Finish past and future chart
 - V3 - Fix future chart and finish present chart
+- V4 - Edit past chart
