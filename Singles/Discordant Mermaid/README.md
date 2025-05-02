@@ -14,3 +14,4 @@ Future 9+
 
 - V1 - Export future chart
 - V2 - Adjust future chart
+- V3 - Adjust future chart
