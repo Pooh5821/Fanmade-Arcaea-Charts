@@ -28,3 +28,4 @@ Future 9+
 - V2 - Finish past and future chart
 - V3 - Fix future chart and finish present chart
 - V4 - Edit past chart
+- V5 - Edit present and future chart
