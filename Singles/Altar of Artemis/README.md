@@ -1,6 +1,6 @@
 # Altar of Artemis - Laur feat. Call of Artemis
 
-Description: This song is kinda cool. RiraN hardstyle ftw
+Description: Intense classical hardcore in D4DJ
 
 ## Chart
 
