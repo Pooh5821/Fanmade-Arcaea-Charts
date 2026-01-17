@@ -13,3 +13,4 @@ Future 9
 ### Version
 
 - V1 - Upload official future chart
+- V2 - Fix trace mistake
